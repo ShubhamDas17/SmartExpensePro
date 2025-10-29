@@ -68,7 +68,7 @@ SmartExpensePro/
 
 | Category | Technology |
 |-----------|-------------|
-| **Language** | Java 17 |
+| **Language** | Java 21 |
 | **Framework** | Spring Boot 3.2.x |
 | **Database** | MySQL |
 | **Security** | Spring Security + JWT |
